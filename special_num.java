@@ -2,7 +2,7 @@ package spiders;
 
 public class special_num {
 	public static void main(String[] args) {
-		int n=19;
+		int n=19;  //input
 		int p=n;
 		int sum=0;
 		int mul=1;
